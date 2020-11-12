@@ -111,3 +111,33 @@ body{
     }
   }
   /*ANIMAÇÃO ICONE ROTAÇÃO PRA BAIXO*/
+
+    /*RODAPE*/
+footer > div {
+  display: inline;  /*ALINHAMENTO DAS TAGS DIVS*/ 
+}
+footer {
+    background-color:#535353; /*COR DE FUNDO DO RODAPE*/
+    text-align: center;   /*ALINHAMENTO CENTRAL DO CONTEUDO DO RODAPE*/
+}
+.dados {
+     float: right; /*ALINHAMENTO FLUTUANTE A DIREITA DA CLASSE DADOS*/
+}
+#pacto {
+    width:276px; /*DIMENSÕES DA LOGOMARCA PACTOMAIS*/
+    height: 84px;
+    margin-top: 15px;   
+}
+.logomarca {
+    float: left; /*ALINHAMENTO DA LOGO MARCA FLUTUANTE A ESQUERDA*/
+}
+#sitesrd{ /*ALINHAMENTO DA LOGOMARCA SRD*/
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+#contato { /*ALINHAMENTO DOS DADOS PARA CONTATO*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 125px;
+}
+/*RODAPE*/
