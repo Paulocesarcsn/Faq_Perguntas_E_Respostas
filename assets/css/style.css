@@ -140,4 +140,13 @@ footer {
     padding-bottom: 10px;
     height: 125px;
 }
+
+@media only screen and (max-width: 768px) { /*Configuração de responsividade mobile*/
+  .dados { /*Os items que possuirem essa classe irão desaparecer quando ajustado para 768px*/
+    float: none;
+  }
+  .logomarca{
+      float: none;
+  }
+}
 /*RODAPE*/
