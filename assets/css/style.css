@@ -32,7 +32,7 @@ span{ /*TÍTULO DE CADA CARD*/
 }
 p{ /*PARAGRAFO COM OS TEXTOS DE CADA CARD*/
   color: rgb(100, 100, 100);
-  line-height: 20px; /*ESPAÇAMENTO DAS LINHAS*/
+  line-height: 40px; /*ESPAÇAMENTO DAS LINHAS*/
   margin-left: 4%; /*"TAB" DO PARAGRAFO*/
 }
 h2{ /*TÍTULO DE CADA BLOCO DE CARD'S*/
